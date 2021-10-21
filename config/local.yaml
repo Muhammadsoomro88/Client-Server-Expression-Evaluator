@@ -1,0 +1,21 @@
+AWS_REGION: "us-west-2"
+DEBUG: true
+
+TCP_PORT: ":9000"
+SERVER: "tcp"
+
+LOG_LEVEL: "debug"
+LOG_FILE: "/var/log/cake/hydra/service.log"
+LOG_SIZE_MB: 10
+LOG_AGE_DAY: 5
+
+REDIS_HOST: "localhost"
+REDIS_PORT: 6379
+REDIS_PASSWORD: ""
+
+DATABASE: "mysql"
+DATABASE_CONFIG: root:ContourSoftware123@tcp(localhost:3306)
+DATABASE_NAME: testchallenge
+
+TIME_FORMAT: "2006-01-02 15:04:05"
+TIME: 2
