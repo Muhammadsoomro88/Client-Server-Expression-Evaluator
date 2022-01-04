@@ -1,2 +1,2 @@
 # Client-Server-Expression-Evaluator
-Client-Server Expression Evaluator with Persistent Database Support (Redis &amp; SQL)
+Client-Server Expression Evaluator with Persistent Database Support (Redis &amp; SQL). Client-Server Expression Evaluator is programmed on Go Lang. This Project allows the client to connect to the server and execute the expressions & for storage Redis and MySQL Databases are used where Redis is used for temporary storage and MySQL is used for permanent storage. In this project, CakeMarketing packages were used.
